@@ -3235,7 +3235,7 @@ msgid "Build"
 msgstr "Сборка"
 
 msgid "Build Brand"
-msgstr "Производитель ресивера"
+msgstr "Производитель"
 
 msgid "Build Information"
 msgstr "Информация о сборке"
@@ -3408,7 +3408,7 @@ msgid "CI+ Helper*"
 msgstr "Помощник* CI+"
 
 msgid "CPU"
-msgstr "ЦП"
+msgstr "ЦП устройства"
 
 #, python-format
 msgid "CPU / Core %d type"
@@ -3424,7 +3424,7 @@ msgid "CPU benchmark"
 msgstr "Бенчмарк ЦП"
 
 msgid "CPU brand"
-msgstr "Марка процессора"
+msgstr "Бренд процессора"
 
 msgid "CPU priority for scripts"
 msgstr "Приоритет выполнения скриптов"
@@ -3433,7 +3433,7 @@ msgid "CPU rating"
 msgstr "Рейтинг процессора"
 
 msgid "CPU speed/cores"
-msgstr "Скорость процессора/ядра"
+msgstr "Производительность CPU"
 
 msgid "CPU temperature"
 msgstr "Температура процессора"
@@ -6336,10 +6336,10 @@ msgid "Distribution architecture"
 msgstr "Архитектура"
 
 msgid "Distribution build"
-msgstr "Сборка дистрибутива"
+msgstr "Обновление дистрибутива"
 
 msgid "Distribution build date"
-msgstr "Дата сборки"
+msgstr "Сборка дистрибутива"
 
 msgid "Distribution file system"
 msgstr "Файловая система"
@@ -6351,7 +6351,7 @@ msgid "Distribution language"
 msgstr "Язык дистрибутива"
 
 msgid "Distribution revision"
-msgstr "Редакция дистрибутива"
+msgstr "Ревизия дистрибутива"
 
 msgid "Distribution version"
 msgstr "Версия дистрибутива"
@@ -6690,7 +6690,7 @@ msgid "Driver and kernel information"
 msgstr "Драйвера и ядро"
 
 msgid "Drivers version"
-msgstr "Версия драйверов"
+msgstr "Обновление драйверов"
 
 msgid "Duplex"
 msgstr "Двойной"
@@ -7140,7 +7140,7 @@ msgid "Enable the advanced HDMI-CEC setting options."
 msgstr "Включить расширенные параметры настройки HDMI-CEC."
 
 msgid "Enable this option to add MultiBoot information detected during system boot to the debug log file."
-msgstr "Включите этот параметр, чтобы добавить информацию о мультизагрузке, обнаруженную во время загрузки системы, в файл лога отладки."
+msgstr "Включите этот параметр, чтобы добавить информацию о Multiboot, обнаруженную во время загрузки системы, в файл лога отладки."
 
 msgid "Enable this option to add action map / remote control mapping data to the debug log file."
 msgstr "Включите этот параметр, чтобы добавить данные сопоставления карты действий / удалённого управления в файл лога отладки."
@@ -10397,7 +10397,7 @@ msgid "Last config"
 msgstr "Отменить изменения"
 
 msgid "Last flash"
-msgstr "Последняя прошивка"
+msgstr "Крайняя установка"
 
 msgid "Last speed"
 msgstr "Последняя скорость"
@@ -11066,7 +11066,7 @@ msgid "Media scanner"
 msgstr "Медиасканер"
 
 msgid "Media service"
-msgstr "Медиасервис"
+msgstr "Медиа сервис"
 
 msgid "MediaInfo"
 msgstr "МедиаИнфо"
@@ -11647,22 +11647,22 @@ msgid "Multi EPG"
 msgstr "Мульти ТВ-гид"
 
 msgid "MultiBoot"
-msgstr "Мультизагрузка"
+msgstr "MultiBoot"
 
 msgid "MultiBoot Information"
-msgstr "Информация о мультизагрузке"
+msgstr "MultiBoot информация"
 
 msgid "MultiBoot Manager"
-msgstr "Диспетчер мультизагрузки"
+msgstr "Диспетчер MultiBoot"
 
 msgid "MultiBoot Manager Actions"
-msgstr "Действия диспетчера мультизагрузки"
+msgstr "Действия диспетчера MultiBoot"
 
 msgid "MultiBoot boot mode"
-msgstr "Режим мультизагрузки"
+msgstr "Режим MultiBoot"
 
 msgid "MultiBoot startup file"
-msgstr "Загрузочный файл мультизагрузки"
+msgstr "Стартовый файл в MultiBoot"
 
 msgid "MultiEPG Settings"
 msgstr "Настройки мульти ТВ-гида"
@@ -11674,7 +11674,7 @@ msgid "MultiTranscoding"
 msgstr "Мультитранскодирование"
 
 msgid "Multiboot Image created:"
-msgstr "Мультизагрузочный образ создан:"
+msgstr "Образ Multiboot создан:"
 
 msgid "Multimedia Packages"
 msgstr "Мультимедийные пакеты"
@@ -13945,7 +13945,7 @@ msgid "Problem while scanning"
 msgstr "Ошибка поиска"
 
 msgid "Proc model"
-msgstr "Модель-прототип"
+msgstr "Параметры модели  "
 
 msgid "Proceed to the next step"
 msgstr "Перейти к следующему шагу"
@@ -14379,7 +14379,7 @@ msgid "Receiver information for %s %s"
 msgstr "Сведения о ресивере %s %s"
 
 msgid "Receiver name"
-msgstr "Имя ресивера"
+msgstr "Ресивер"
 
 msgid "Reception Lists"
 msgstr "Вид списка"
@@ -14755,7 +14755,7 @@ msgid "Remove the Line from CCcam.cfg"
 msgstr "Удалить строку из CCcam.cfg"
 
 msgid "Remove the MultiBoot files"
-msgstr "Удалите файлы мультизагрузки"
+msgstr "Удалите файлы Multiboot"
 
 msgid "Remove the current bookmark"
 msgstr "Удалить текущую закладку"
@@ -18300,7 +18300,7 @@ msgid "Size descending"
 msgstr "Размер по убыванию"
 
 msgid "Skin & Resolution"
-msgstr "Скин и разрешение"
+msgstr "Скин & разрешение"
 
 msgid "Skin Component Packages"
 msgstr "Пакеты компонентов скина"
@@ -19402,7 +19402,7 @@ msgid "System information"
 msgstr "Информация о системе"
 
 msgid "System temperature"
-msgstr "Температура системы"
+msgstr "Температура CPU"
 
 msgid "System: "
 msgstr "Система: "
@@ -21822,7 +21822,7 @@ msgid "VPS-Time (time)"
 msgstr "VPS-Time (время)"
 
 msgid "Valid"
-msgstr "Верно"
+msgstr "Верна́"
 
 msgid "Vanuatu"
 msgstr "Вануату"
@@ -24509,7 +24509,7 @@ msgstr "Настройки управления плейлистами M3U/Xtrem
 
 #, python-format
 #~ msgid "Multiboot Image created on: %s/%s-%s-%s-backup-%s_usb.zip"
-#~ msgstr "Мультизагрузочный образ создан на: %s/%s-%s-%s-backup-%s_usb.zip"
+#~ msgstr "Образ Multiboot создан на: %s/%s-%s-%s-backup-%s_usb.zip"
 
 #~ msgid "No, do not backup a image"
 #~ msgstr "Нет, не делать резервную копию имиджа"
